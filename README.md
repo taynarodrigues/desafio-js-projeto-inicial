@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="./img/Result.png" alt="Result"></img></h1>
+<h1 align="center"><img align="center" src="./github_assets/img/Result.png" alt="Result"></img></h1>
 
 <h1 align="center"> Resolução dos desafios do curso de lógica de programação </h1>
 
