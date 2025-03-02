@@ -73,3 +73,10 @@ if (idade >= 18) {
     alert('Pode tirar a habilitação!.'); 
 }
 ```
+
+## Documentação
+Alguns links úteis para a documentação oficial do JavaScript incluem:
+
+
+- 💹 **A documentação da linguagem de programação JavaScript** — [A documentação da linguagem de programação JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Scripting/What_is_JavaScript)
+- 💹 **Guia de JavaScript: o que é e como aprender a linguagem mais popular do mundo?** — [Guia de JavaScript: o que é e como aprender a linguagem mais popular do mundo?](https://www.alura.com.br/artigos/javascript)
